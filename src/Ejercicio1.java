@@ -8,6 +8,8 @@ public class Ejercicio1 {
 		
 		
 		System.out.println("Primer cambio");
+		
+		System.out.println("Segundo cambio");
 	}
 
 
